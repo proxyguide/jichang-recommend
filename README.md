@@ -29,23 +29,7 @@ stablenet–稳联云机场自2022年成立以来，便以专业的优质v2ray�
 
 <a href="https://abc.20251020a.top/2" target="_blank">稳联云 入口</a>
 
-
-## 2. **[可乐云机场](https://coke.buyzur.com/#/register?code=wNSlQtWS)**
-
-主打速度快，节点稳老牌机场，可定制原生千兆独享节点，亦有 9.9 元超值 400G 流量不限速，亦有不限时套餐选择，youtube 全天 4K&ChatGPT，IPLC 专线线路,专属客户端。注册试用满意再说,无需验证。
-
-<!-- more -->
-
-**套餐价格：**
-
--   一顿早餐：￥ 9.9/月、 29.7/季、59.4/半年、118.8/年，400G 流量/月;
--   一杯奶茶：￥ 19.9/季、39.8/半年、79.6/年，300G 流量/月;
--   一张电影票：￥ 29.9/半年、59.8/年，200G 流量/月;
--   300GB 不限时：￥ 39.9/300GB。
-
-<a href="https://coke.buyzur.com/#/register?code=wNSlQtWS" target="_blank">可乐云 入口</a>
-
-## 3. CyberGuard 机场
+## 2. CyberGuard 机场
 
 ![CyberGuard 机场官网](https://v2raya.net/images/CyberGuard/CyberGuard-website.webp "CyberGuard 机场官网")
 
@@ -60,7 +44,7 @@ CyberGuard 机场支持主流的 Clash、Shadowrocket、Quantumult X、Stash 等
 [CyberGuard](/goto/cyberguard)
 
 
-## 4. **WgetCloud**
+## 3. **WgetCloud**
 
 ![WgetCloud 全球加速机场VPN](/WgetCloud-VPN.webp "WgetCloud 全球加速机场VPN")
 
@@ -96,7 +80,7 @@ WgetCloud 针对新用户有 8 折优惠，欲购从速。
 
 [WgetCloud 机场官网](https://j8doba2sodptvzprvmcb.wgetcloud.org?code=2U0tWJ)
 
-## 5. [耐思云](https://minlp57whuv2fqta.nc15.cc/#/register?code=dOjluwuW)
+## 4. [耐思云](https://minlp57whuv2fqta.nc15.cc/#/register?code=dOjluwuW)
 
 -   全线路多入口 BGP 隧道中转
 -   优质 SS/SSR 机场
